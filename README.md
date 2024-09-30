@@ -27,7 +27,7 @@ Setting up **DeepExtract** is quick and straightforward! Simply follow the steps
 Clone the DeepExtract repository to your local machine:
 
 ```bash
-git clone https://github.com/abdozmantar/DeepExtract.git
+git clone https://github.com/abdozmantar/deepextract.git
 cd DeepExtract
 ```
 
@@ -102,3 +102,7 @@ We welcome contributions from the community! If you'd like to enhance DeepExtrac
 
 👤 **Abdullah Ozmantar**  
 [GitHub Profile](https://github.com/abdozmantar)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/abdozmantar/deepextract/blob/main/LICENSE) file for details.
