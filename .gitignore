@@ -1,0 +1,5 @@
+#Ignore Python cache and virtual environment directories
+__pycache__/
+venv/
+output/
+models/
