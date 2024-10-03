@@ -28,7 +28,7 @@ Clone the DeepExtract repository to your local machine:
 
 ```bash
 git clone https://github.com/abdozmantar/deepextract.git
-cd DeepExtract
+cd deepextract
 ```
 
 ### Step 2: Run the Setup Script
