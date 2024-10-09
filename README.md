@@ -11,13 +11,6 @@
 - **Versatile Input and Output Options:** Supports various audio formats with user-defined output directories.
 - **Python Integration:** Easily incorporate DeepExtract into your Python projects with straightforward API access.
 
-## Installation
-
-### Prerequisites
-
-- Python 3.6 or later
-- pip (Python package installer)
-
 ## Installation Guide 🛠️
 
 Setting up **DeepExtract** is quick and straightforward! Simply follow the steps below to get started.
