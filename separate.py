@@ -15,12 +15,10 @@ from stft import STFT
 
 if TYPE_CHECKING:
     from vocal_and_sound_remover import ModelData
-
-
+    
 def clear_gpu_cache():
     gc.collect()
     torch.cuda.empty_cache()
-
 
 def verify_audio(audio_file):
     is_audio = True
