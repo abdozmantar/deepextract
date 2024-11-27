@@ -7,10 +7,8 @@ from packaging import version as pv
 from pathlib import Path
 from tqdm import tqdm
 
-# Suppress deprecation warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
-# Display welcome message
 print(f"\n")
 print(f"-----------------------------------------------------------------")
 print(f"🌟 Welcome to the DeepExtract Vocal and Sound Separator Installer 🌟")
@@ -76,8 +74,6 @@ with open(req_file) as file:
         
         print("🔧 INSTALLING: torch, torchvision, torchaudio...")
         run_pip("torch", "torchvision", "torchaudio", "--extra-index-url", "https://download.pytorch.org/whl/cu118")
-
-       
 
     except Exception as e:
         print(f"❌------------------------!ERROR!--------------------------------------")
